@@ -152,6 +152,6 @@ fabric.properties
 
 # For this application
 cem/
-generated/
+generated*/
 maxwellfdfd/
 *.pth
