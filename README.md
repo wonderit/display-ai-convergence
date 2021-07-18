@@ -45,6 +45,10 @@ conda create -n DAIC python=3.8
 ```
 
 #### Reference
+- Kim, W., Seok, J. Simulation acceleration for transmittance of electromagnetic waves in 2D slit arrays using deep learning. Sci Rep 10, 10535 (2020). https://doi.org/10.1038/s41598-020-67545-x
+- https://www.nature.com/articles/s41598-020-67545-x
+- https://github.com/wonderit/maxwellfdfd-ai
+- https://github.com/wonderit/maxwellfdfd-controlgan
 - https://jovian.ai/aakashns/05-cifar10-cnn
 - https://jovian.ai/aakashns/06b-anime-dcgan 
 - https://jovian.ai/aakashns/06-mnist-gan
