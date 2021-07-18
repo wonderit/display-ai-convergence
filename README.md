@@ -13,8 +13,23 @@
 - Language : Python
 - IDE Tool : Jupyter Notebook, Colab
 
-## 설치 및 실행
-### 1. 기본 환경에서의 실행 
+## Colab
+
+### 1. ML
+- colab link : https://colab.research.google.com/github/wonderit/display-ai-convergence/blob/main/1_ml_maxwellfdfd_colab.ipynb
+
+
+### 2. CNN
+- colab link : https://colab.research.google.com/github/wonderit/display-ai-convergence/blob/main/2_cnn_maxwellfdfd_colab.ipynb
+
+
+### 3. GAN
+- colab link : https://colab.research.google.com/github/wonderit/display-ai-convergence/blob/main/3_wgan_maxwellfdfd_colab.ipynb
+
+
+## Jupyter Notebook 
+
+### 1. 소스 받기
 ```
 git clone https://github.com/wonderit/display-ai-convergence
 ```
@@ -22,4 +37,9 @@ git clone https://github.com/wonderit/display-ai-convergence
 ### 2. 데이터 다운로드 및 압축 해제
 ```
 ./download.sh
+```
+
+### 3. Conda 환경 설정
+```
+conda create -n DAIC python=3.8
 ```
