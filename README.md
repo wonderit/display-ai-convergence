@@ -22,9 +22,9 @@
 ### 2. CNN
 - colab link : https://colab.research.google.com/github/wonderit/display-ai-convergence/blob/main/2_cnn_maxwellfdfd_colab.ipynb
 
-
 ### 3. GAN
 - colab link : https://colab.research.google.com/github/wonderit/display-ai-convergence/blob/main/3_wgan_maxwellfdfd_colab.ipynb
+
 
 
 ## Jupyter Notebook 
@@ -43,3 +43,9 @@ git clone https://github.com/wonderit/display-ai-convergence
 ```
 conda create -n DAIC python=3.8
 ```
+
+#### Reference
+- https://jovian.ai/aakashns/05-cifar10-cnn
+- https://jovian.ai/aakashns/06b-anime-dcgan 
+- https://jovian.ai/aakashns/06-mnist-gan
+- https://www.kaggle.com/kmldas/gan-in-pytorch-deep-fake-anime-faces/notebook
