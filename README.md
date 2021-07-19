@@ -42,7 +42,22 @@ git clone https://github.com/wonderit/display-ai-convergence
 ### 3. Conda 환경 설정
 ```
 conda create -n DAIC python=3.8
+conda activate DAIC
 ```
+
+### 3. pip dependencies
+```
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install tqdm 
+pip install imageio
+# for cpu 
+pip3 install torch torchvision torchaudio
+# for gpu
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio===0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
 
 #### Reference
 - Kim, W., Seok, J. Simulation acceleration for transmittance of electromagnetic waves in 2D slit arrays using deep learning. Sci Rep 10, 10535 (2020). https://doi.org/10.1038/s41598-020-67545-x
