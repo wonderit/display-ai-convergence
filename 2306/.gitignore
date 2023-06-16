@@ -234,3 +234,4 @@ cython_debug/
 
 data/CIFAR10
 .neptune/
+.DS_Store
