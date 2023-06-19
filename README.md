@@ -61,6 +61,7 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio===0.9.0 -f h
 
 #### Reference
 - Kim, W., Seok, J. Simulation acceleration for transmittance of electromagnetic waves in 2D slit arrays using deep learning. Sci Rep 10, 10535 (2020). https://doi.org/10.1038/s41598-020-67545-x
+- Kim, Wonsuk, et al. "Inverse design of nanophotonic devices using generative adversarial networks." Engineering Applications of Artificial Intelligence 115 (2022): 105259. https://doi.org/10.1016/j.engappai.2022.105259
 - https://www.nature.com/articles/s41598-020-67545-x
 - https://github.com/wonderit/maxwellfdfd-ai
 - https://github.com/wonderit/maxwellfdfd-controlgan
